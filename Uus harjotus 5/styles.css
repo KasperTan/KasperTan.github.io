@@ -1,0 +1,14 @@
+#header {
+  background-color: red
+}
+#nav {
+  background-color: green
+}
+#section{
+  background-color: yellow
+}
+body {
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+}  
